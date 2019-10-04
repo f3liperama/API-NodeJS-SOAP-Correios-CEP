@@ -2,7 +2,7 @@
 
 ## Descrição
 
-API para gerenciamento de projetos e tarefas realizadas por cada usuário.
+API para consulta de CEP Correios.
 
 ## Principais recursos
 
